@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1ca4a0e0-f2e2-42ad-ac37-4419ac7ae9dd)# Source-code-and-supporting-dataset-for-CNS-Neuroscience-Therapeutics-paper
+# Source-code-and-supporting-dataset-for-CNS-Neuroscience-Therapeutics-paper
 In the dataset folder, each subfolder corresponds to a feature matrix for a patient with the same name as the subfolder.
 Within each subfolder, files named 1, 2, 3, ... .mat represent the patient's ictal (seizure period) network matrices, while 
 files named feature_1, feature_2, ... contain extracted features from files 1, 2, ... 
